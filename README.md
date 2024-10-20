@@ -1,6 +1,6 @@
 # Rule Engine with AST
 
-**Live Demo:** [View Live Demo]([https://your-rule-engine-demo-url.com](https://amazing-kringle-caf0aa.netlify.app/))
+**Live Demo:** ![View Live Demo]([https://your-rule-engine-demo-url.com](https://amazing-kringle-caf0aa.netlify.app/))
 
 ## Overview
 
