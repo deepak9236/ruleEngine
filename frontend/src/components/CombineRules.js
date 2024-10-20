@@ -9,9 +9,9 @@ const CombineRules = () => {
 
   // Sample list of rule IDs for demonstration purposes
   const availableRules = [
-    { id: "67112e4affc3e79776d10dea", name: "Sales Rule" },
-    { id: "671503ca5c4040395617e446", name: "Marketing Rule" },
-    { id: "671503b75c4040395617e443", name: "HR Rule" },
+    { id: "6715114de976982d0c183caa", name: "Sales Rule" },
+    { id: "67151192e976982d0c183cad", name: "Marketing Rule" },
+    { id: "671511a1e976982d0c183cb0", name: "HR Rule" },
   ];
 
   // Function to handle the rule combination API call

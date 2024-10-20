@@ -9,7 +9,7 @@ const EvaluateRule = () => {
   const [message, setMessage] = useState("");
 
   // Sample rule ID and user data for copying
-  const sampleRuleId = "67112e4affc3e79776d10dea";
+  const sampleRuleId = "6715114de976982d0c183caa";
   const sampleUserData = {
     age: 35,
     department: "Sales",

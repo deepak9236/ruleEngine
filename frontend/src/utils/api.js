@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = "http://localhost:5000"; // Your backend URL
+const API_URL = "https://ruleengineapi-4hvj.onrender.com"; // Your backend URL
 
 // API call to create a new rule
 export const createRule = async (name, ruleString) => {
