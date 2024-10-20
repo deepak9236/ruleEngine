@@ -1,6 +1,6 @@
 # Rule Engine with AST
 
-**Deploy Link:** [View Live link]([https://amazing-kringle-caf0aa.netlify.app/](https://amazing-kringle-caf0aa.netlify.app/))
+**Deploy Link:** ([https://amazing-kringle-caf0aa.netlify.app/](https://amazing-kringle-caf0aa.netlify.app/))
 
 ## Overview
 
